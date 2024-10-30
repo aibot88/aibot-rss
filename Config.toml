@@ -1,8 +1,7 @@
 site_title = "ArxivDaily"
 cache_max_days = 7
 sources = [
-    "http://export.arxiv.org/rss/cs.CL",
-    "https://aibot88-wewe-rss.hf.space/feeds/MP_WXS_3597477200.atom" 
+    "http://export.arxiv.org/rss/cs.CL"
 ]
 
 minify = true                     ## Optional: default is false
